@@ -81,7 +81,7 @@ span.one:after {
 }
 
 span.two:after {
-    content: "a whole lot of";
+    content: "a lot of";
 }
 
 span.three:after {
