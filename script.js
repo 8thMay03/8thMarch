@@ -43,3 +43,6 @@
     document.getElementById("falling-hearts").appendChild(heartDiv);
   }
 })();
+
+const audio = document.querySelector('audio');
+audio.play();
